@@ -1,4 +1,4 @@
-<iframe height = "550" width = "600"></iframe>
+<iframe height = "550" width = "600">
 <div id = "can">
 <div id = "scoreBox"></div>
 <div id = "box1"></div>
@@ -490,3 +490,4 @@ function dropLight3() {
 }
 
 </script>
+</iframe>
