@@ -1,5 +1,5 @@
 ---
-Theme: none
+layout: Template
 ---
 
 <div id = "can">
