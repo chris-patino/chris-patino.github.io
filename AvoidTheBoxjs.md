@@ -29,8 +29,8 @@ Move with wasd</p>
 <style>
 #can {
   position: absolute;
-  left: 350px;
-  top: 180px;
+  left: 0px;
+  top: 0px;
   height: 400px;
   width: 400px;
   background: grey;
