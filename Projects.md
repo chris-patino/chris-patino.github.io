@@ -1,9 +1,10 @@
 ---
 title: Projects
-layout: jekyll-theme-hacker
+layout: template
+theme: jekyll-theme-hacker
 filename: Project.md
 ---
 
-#Projects
+# Projects
 
 I sure hope this works!
