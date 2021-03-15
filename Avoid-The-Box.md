@@ -25,7 +25,7 @@ Move with wasd</p>
 <style>
 #can {
   position: absolute;
-  left: 300px;
+  left: 100px;
   top: 200px;
   height: 400px;
   width: 400px;
@@ -75,7 +75,7 @@ Move with wasd</p>
 #demo {
   position: absolute;
   top: 590px;
-  left: 450px;
+  left: 150px;
   font-size: 18pt;
 }
 
