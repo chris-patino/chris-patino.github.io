@@ -1,7 +1,3 @@
----
-layout: Template
----
-
 <div id = "can">
 <div id = "scoreBox"></div>
 <div id = "box1"></div>
