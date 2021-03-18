@@ -6,7 +6,7 @@ This article's main error is that the metric it uses to determine which programm
 
 In this case, Python, which is number one on the list, will be beneficial to you only in that it has a low learning curve, but beyond that, there isn't much that you can do with just python. You cannot make a mobile app, website, or game in python. At best you can make scripts for automation, or do data science, but you can make scripts with other programming languages, that have mor functionality, and if you want to be a data scientist, odds are that you'd be better off learning another more useful programming language first as well.
 
-A similar argument can be made about SQL, which is number 2 on the list. SQL is a highly specialized language, and therefore has limited functionality. Similar to python, you can't make applications with SQL alone, so learning only SQL doesn't provide much utility to you. 
+A similar argument can be made about SQL, which is number 2 on the list. SQL is a highly specialized language, made for working with databases, and therefore has limited functionality. Similar to python, you can't make applications with SQL alone, so learning only SQL doesn't provide much utility to you. 
 
 That being said, Python and SQL are both excellent programming languages for a seasoned programmer to have in their back pocket, as they both provide tools to a programmer that very few other languages do. 
 
