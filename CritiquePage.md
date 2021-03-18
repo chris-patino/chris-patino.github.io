@@ -1,4 +1,4 @@
-# On <a href="https://www.techrepublic.com/google-amp/article/the-essential-10-programming-languages-developers-need-to-know-this-year/">The Essential 10 Programming Languages Developers Need to Know This Year - Teena Maddox</a>
+# Critique On <a href="https://www.techrepublic.com/google-amp/article/the-essential-10-programming-languages-developers-need-to-know-this-year/">The Essential 10 Programming Languages Developers Need to Know This Year - Teena Maddox</a>
   
 This article's main error is that the metric it uses to determine which programming language is best to learn is not very holistic; it is simply a ranking of how many job offerings there are for each programming language. Clearly topic is is highly subjective, but regardless, there are many cases in which languages on this list are objectively not ideal for an individual to learn. Let's observe a few those cases. 
 
