@@ -1,41 +1,36 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/chris-patino/chris-patino.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <title>A simple navigation bar</title>
+      <link rel="stylesheet" href="topnav.css">
+   </head>
+   <body>
+      <nav id="topnav">
+         <a id="logo" class="nav-link" href="#">MY NAME</a>
+         <a class="nav-link" href="#">Link 1</a>
+         <a class="nav-link" href="#">Link 2</a>
+         <a class="nav-link" href="#">Link 3</a>
+         <a class="nav-link" href="#">Link 4</a>
+         <a class="nav-link" href="#">Link 5</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+         <a id="about" class="nav-link" href="#">About Me</a>
+      </nav>
+   </body>
+</html>
+<stlye>
+#topnav {
+   width: 100%;
 
-### Markdown
+   position: fixed;
+   top: 0;
+   left: 0;
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-<!---
-```markdown
-Syntax highlighted code block
+   background-color: Black;
 
-# Header 1
-## Header 2
-### Header 3
+   font-family: Arial, sans-serif;
+   font-size: 15px;
+}
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chris-patino/chris-patino.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
--->
-
-# Chris Patino
-
+</style>
