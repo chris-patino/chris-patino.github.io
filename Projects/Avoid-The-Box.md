@@ -29,7 +29,7 @@ Move with wasd</p>
 #can {
   position: absolute;
   left: 100px;
-  top: 200px;
+  top: 500px;
   height: 400px;
   width: 400px;
   background: grey;
