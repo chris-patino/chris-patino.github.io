@@ -4,7 +4,7 @@ At the moment, I have 2 projects that I feel showcase my ability as a programmer
 
 <a class="nav-link" href="https://chris-patino.github.io/Projects/Avoid-The-Box">Avoid the Box</a>
  <br>
- <a class="nav-link" href="https://chris-patino.github.io/Simple-MP3-Sd-Card-Formatter">Simple MP3 SD Card Formater</a>
+ <a class="nav-link" href="https://chris-patino.github.io/Projects/Simple-MP3-Sd-Card-Formatter">Simple MP3 SD Card Formater</a>
 
 <br>
 
