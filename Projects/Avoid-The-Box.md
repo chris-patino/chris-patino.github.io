@@ -31,7 +31,7 @@ Move with wasd</p>
 #can {
   position: absolute;
   left: 100px;
-  top: 300px;
+  top: 500px;
   height: 400px;
   width: 400px;
   background: grey;
@@ -79,7 +79,7 @@ Move with wasd</p>
 
 #demo {
   position: absolute;
-  top: 790px;
+  top: 890px;
   left: 150px;
   font-size: 18pt;
 }
