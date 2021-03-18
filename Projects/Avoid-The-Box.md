@@ -1,3 +1,6 @@
+This program is a simple game that I made, who's rules are detailed below. This program was made in a JavaScript canvas with no additional APIs or libraries. It's about as "from scratch" as one could get with JavaScript.
+
+
 <div id = "can">
 <div id = "scoreBox"></div>
 <div id = "box1"></div>
