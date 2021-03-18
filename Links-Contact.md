@@ -6,5 +6,5 @@
 
 # Contact
 
--Personal/ Professional Email:
--Student Email: 
+- Personal/ Professional Email: chrispatino6600@protonmail.com
+- Student Email: cpatino@ucsd.edu
