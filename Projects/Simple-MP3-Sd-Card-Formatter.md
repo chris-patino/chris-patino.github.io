@@ -1,6 +1,6 @@
 # Simple MP3 SD Card Formatter
 
-The code for this project can be found at: https://github.com/chris-patino/Simple-MP3-SD-Card-Formatter
+The code for this project can be found at: <a href="https://github.com/chris-patino/Simple-MP3-SD-Card-Formatter">https://github.com/chris-patino/Simple-MP3-SD-Card-Formatter</a>
 
 ## Background
 
