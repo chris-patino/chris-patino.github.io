@@ -1,3 +1,5 @@
+The code for this project can be found at: https://github.com/chris-patino/Simple-MP3-SD-Card-Formatter
+
 ## Background
 
 MP3 players with simple user interfaces (i.e. hardly any user interface at all, only the ability to change volume and advance or go back by one song) behave rather oddly when it comes to deciding what order to play songs in; the order they decide to play songs in seems random at times, but upon turning them off and on, they do repeat their song order. 
