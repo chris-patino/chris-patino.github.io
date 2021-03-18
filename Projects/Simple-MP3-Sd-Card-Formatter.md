@@ -12,7 +12,7 @@ This collection of programs was written for the purpose of organizing a storage 
 
 ### mkFolders.c
 
-This program creates 10 folders which each contain 50 folders. Unfortunately, the windows command line has a limit on how long a path name can be, so one couldn't just make a folder with many subfolders. The idea with this program is that the user will determine what order the folders on the root of the device will play, and name them 1-10 depending on their play order. 
+This program creates 10 folders which each contain a chain of 50 nested folders. Unfortunately, the windows command line has a limit on how long a path name can be, so one couldn't just make a folder with many subfolders. The idea with this program is that the user will determine what order the folders on the root of the device will play, and name them 1-10 depending on their play order. 
 
 ### CreateOrderList.c
 
